@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(113, 18, 164);
+}
+h1{
+    text-align: center;
+}
+.border-bottom{
+    border-bottom: 5px solid #080909!important;
+}
